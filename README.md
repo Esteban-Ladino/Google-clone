@@ -1,2 +1,22 @@
 # Google-clone
-Clon de google
+Clon de google desarrollado utilizando HTML - CSS
+
+## Instalación
+
+Puedes clonar el repositorio
+
+    $ git clone https://github.com/Esteban-Ladino/Google-clone
+
+## Como se usa
+Abrir archivo index.html en el navegador
+
+Se mostrará el clon de google
+![Preview](https://github.com/Esteban-Ladino/Google-clone/blob/master/images/preview.png)
+
+## Como contribuir
+
+Puedes crear un Pull request al proyecto
+
+## Licencia
+
+[MIT](https://github.com/Esteban-Ladino/Google-clone/blob/master/LICENSE)
