@@ -13,6 +13,9 @@ Abrir archivo index.html en el navegador
 Se mostrará el clon de google
 ![Preview](https://github.com/Esteban-Ladino/Google-clone/blob/master/images/preview.png)
 
+## Demo
+Si deseas ver la demostración de este proyecto implementado, puedes visitarla [aquí](https://esteban-ladino.github.io/Google-clone/)
+
 ## Como contribuir
 
 Puedes crear un Pull request al proyecto
